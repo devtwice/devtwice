@@ -1,16 +1,15 @@
-### Hi there 👋
+# Roger Huanuco - @devtwice
+======
 
-<!--
-**devtwice/devtwice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola 👋
 
-Here are some ideas to get you started:
+- :rocket: Actualmente trabajo en @-----
+- :pencil2: Tengo un ejemplo de mi cv en web
+- :thought_balloon: Preguntame todo lo que quieras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+- [Youtube](https://www.youtube.com/channel/UCiL72QoLRm6qeGzMW20tBPw)
+- [Linkedin](https://www.linkedin.com/in/roger-huanuco-huachaca-8336981b1/)
+- [Email](roger.dev.twice@gmail.com)
+
