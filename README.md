@@ -9,7 +9,8 @@ Soy un desarrollador web/multiplataforma apasionado por aprender sobre tecnolog√
 
 ## Contacto
 
-- [Youtube](https://www.youtube.com/channel/UCiL72QoLRm6qeGzMW20tBPw)
+<!---- [Youtube](https://www.youtube.com/channel/UCiL72QoLRm6qeGzMW20tBPw)
 - [Linkedin](https://www.linkedin.com/in/roger-huanuco-huachaca-8336981b1/)
 - [Email](mailto:roger.dev.twice@gmail.com) 
+---->
 
